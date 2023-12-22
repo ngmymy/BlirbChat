@@ -49,7 +49,4 @@ Follow these commands to set up the project environment:
 - **Stylish & Vibrant Interface**: Inspired by popular microblogging platforms.
 - **Responsive Design**: Tested on various screen sizes for optimal display.
 - **Custom Logos** for unique branding elements
-<div>    
-    <img src="/resources/images/logo.png" title="Logo" alt="Logo" width="150" height="150"/>&nbsp;
-    <img src="/resources/images/birbchat.png" title="Logo" alt="Logo" width="160" height="150"/>&nbsp;
-</div>
+
